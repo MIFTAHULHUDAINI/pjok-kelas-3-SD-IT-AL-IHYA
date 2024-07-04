@@ -1,9 +1,8 @@
-
 <html lang="id">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Modul Ajar PJOK Kelas 3 - Kurikulum Merdeka</title>
+    <title>Modul Ajar PJOK Kelas 3 SD IT AL IHYA KALIREJO</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -52,8 +51,9 @@
 <body>
 
 <header>
-    <h1>Modul Ajar PJOK Kelas 3</h1>
+    <h1>Modul Ajar PJOK Kelas 3 SD IT AL IHYA KALIREJO</h1>
     <p>Kurikulum Merdeka</p>
+    <P>Guru Mapel: MIFTAHUL HUDA</P>
 </header>
 
 <nav>
